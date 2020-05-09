@@ -1,7 +1,6 @@
 import pandas as pd
 
-# from my_df_utils import check_null, get_confusion_mtx
-from my_df_utils import MyUtil
+from my_lambdata.my_df_utils import MyUtil
 
 # df = pd.DataFrame({"a": [1,2,3], "b": [4,5,6]})
 
