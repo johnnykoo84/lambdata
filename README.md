@@ -38,4 +38,5 @@ y_pred = pd.Series([0, 0, 2, 1, 0, 2, 1, 0, 2, 0, 2, 2], name='Prediction')
 MyUtil.get_confusion_mtx(y_actu, y_pred)
 ```
 
-
+License
+[MIT](/LICENSE)

@@ -1,6 +1,11 @@
 # function
 def enlarge(n):
+    """
+    #Return:
+    #   multiples of 100
+    """
     return n * 100
+
 
 if __name__ == "__main__":
     # only run the code below if executing this script from command line
